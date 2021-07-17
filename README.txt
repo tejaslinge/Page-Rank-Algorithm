@@ -8,8 +8,7 @@ process.
 This program(spider_webpages.py) crawls a web site and pulls a series of pages into the
 database, recording the links between pages.
 
-Enter web url or enter: http://www.dr-chuck.com/
-['http://www.google.com']
+Enter web url or enter: ['http://www.google.com']
 How many pages:2
 143 https://www.google.com/drive/download (40210) 15
 41 https://www.google.com/about/philosophy.html (31145) 15
